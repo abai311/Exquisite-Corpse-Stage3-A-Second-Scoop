@@ -43,9 +43,9 @@ This sketch represents an unconventional passing of time through a random flavou
 ### 🟩 Stage 3
 - Name/Alias: Antara Baijal
 - Github account: https://github.com/abai311
-- Published webpage for stage 3: 
+- Published webpage for stage 3: https://abai311.github.io/Exquisite-Corpse-Stage3-A-Second-Scoop/
 
-*... comments to be added here*
+I really enjoyed this project but found pinning a data set to something meaningful in the context unconventional time challenge. I settled with experimenting with a fluid data set. I loved the theme of how life constantly builds upwards until it falls over, and we start again, per the ice cream scoop metaphor. I originally wanted to make a record of the most prominent ice cream flavours in an ice cream scoop tower, comparable to how we remember prominent features about a person when we reflect on their lives. To do this I was thinking of layering a puddle of melted ice cream on the floor, as we only tend to remember back two or three generations, or "lifetimes". I was able to implement this, but I thought I could do better by instead representing these previous "lifetimes" / ice creams as concentric rings, with the oldest being the largest ring,  and the youngest in the very centre around the ice cream cone, which I think looks more striking. These ring colours evolve as the game is restarted again and again and emulates how each person regardless of time period of generation, only recalls a small number of previous generations which even in that small scope gives them a huge sense of their own background. 
 
 ### 🟦 Stage 4
 - Name/Alias:
